@@ -1,0 +1,131 @@
+.App {
+  text-align: center;
+}
+
+.App-logo {
+  height: 40vmin;
+  pointer-events: none;
+}
+
+@media (prefers-reduced-motion: no-preference) {
+  .App-logo {
+    animation: App-logo-spin infinite 20s linear;
+  }
+}
+
+.App-header {
+  background-color: #282c34;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+.App-link {
+  color: #61dafb;
+}
+
+@keyframes App-logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
+
+.context-kk-banner{
+background-image: url(./assests/gold_banner.jpg);
+background-position: center;
+background-size: cover;
+background-repeat: no-repeat;
+position: relative;
+}
+
+.context-kk-solar-banner{
+background-image: url(./assert/solar-banner-img.jpg);
+background-position: center;
+background-size: cover;
+background-repeat: no-repeat;
+position: relative;
+}
+
+.context-kk-realestate-banner{
+background-image: url(./assert/realestate-img.jpg);
+background-position: center;
+background-size: cover;
+background-repeat: no-repeat;
+position: relative;
+}
+
+.context-kk-trade-banner{
+background-image: url(./assests/trade-banner.jpg);
+background-position: center;
+background-size: cover;
+background-repeat: no-repeat;
+position: relative;
+}
+
+.context-kk-food-banner{
+background-image: url(./assests/food-banner.jpg);
+background-position: center;
+background-size: cover;
+background-repeat: no-repeat;
+position: relative;
+}
+
+.context-kk-petro-banner{
+background-image: url(./assests/petrochem-banner.jpg);
+background-position: center;
+background-size: cover;
+background-repeat: no-repeat;
+position: relative;
+}
+
+.context-kk-food-banner{
+background-image: url(./assests/food-banner.jpg);
+background-position: center;
+background-size: cover;
+background-repeat: no-repeat;
+position: relative;
+}
+
+.context-kk-it-banner{
+background-image: url(./assert/it-img.jpg);
+background-position: center;
+background-size: cover;
+background-repeat: no-repeat;
+position: relative;
+}
+.context-kk-bank-banner{
+background-image: url(./assests/bank-banner.png);
+background-position: center;
+background-size: cover;
+background-repeat: no-repeat;
+position: relative;
+}
+.context-kk-loan-banner{
+background-image: url(./assests/loan-banner.jpg);
+background-position: center;
+background-size: cover;
+background-repeat: no-repeat;
+position: relative;
+}
+.context-kk-highyield-banner{
+background-image: url(./assests/highyield-banner.jpg);
+background-position: center;
+background-size: cover;
+background-repeat: no-repeat;
+position: relative;
+}
+
+
+
+
+
+.overview-content{
+  border-right: solid black 3px;
+}
